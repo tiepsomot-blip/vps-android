@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://feeling-tracked-holidays-notes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://basin-proved-egg-tablets.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-13 20:53:53 UTC
+Created   : 2026-08-14 02:06:10 UTC
 =======================================================
