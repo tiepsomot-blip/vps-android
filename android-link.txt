@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://insulin-adds-images-athletic.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://workshops-examination-consensus-met.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-25 15:53:23 UTC
+Created   : 2026-08-25 20:40:17 UTC
 =======================================================
