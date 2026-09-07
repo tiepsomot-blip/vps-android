@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://occasional-trace-incentive-find.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://harold-item-review-side.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-06 22:10:22 UTC
+Created   : 2026-09-07 03:21:08 UTC
 =======================================================
