@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://breach-stage-findlaw-instruction.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://workstation-configured-hero-karaoke.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-07 22:43:43 UTC
+Created   : 2026-09-08 03:29:47 UTC
 =======================================================
