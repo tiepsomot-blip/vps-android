@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gotten-amenities-update-salmon.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://novel-vertex-indianapolis-reservation.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-10 09:35:34 UTC
+Created   : 2026-09-10 14:18:09 UTC
 =======================================================
