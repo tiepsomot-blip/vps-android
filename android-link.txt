@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lake-panel-practices-supported.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://cds-enb-suspected-viewer.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-16 18:52:57 UTC
+Created   : 2026-09-16 22:51:47 UTC
 =======================================================
