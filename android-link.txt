@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://laptop-delicious-stem-arrives.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://versions-tony-poker-cornwall.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-22 18:43:59 UTC
+Created   : 2026-09-22 22:57:22 UTC
 =======================================================
