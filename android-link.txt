@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sheriff-marathon-shapes-believes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://actress-realtors-desirable-tender.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-27 19:06:10 UTC
+Created   : 2026-09-27 23:02:04 UTC
 =======================================================
