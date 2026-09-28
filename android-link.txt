@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://actress-realtors-desirable-tender.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://oriented-steven-specified-background.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-27 23:02:04 UTC
+Created   : 2026-09-28 04:08:16 UTC
 =======================================================
