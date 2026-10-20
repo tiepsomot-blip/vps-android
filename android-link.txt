@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://platform-tan-surf-gene.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://toilet-dawn-jessica-bubble.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-19 20:35:07 UTC
+Created   : 2026-10-20 03:50:04 UTC
 =======================================================
