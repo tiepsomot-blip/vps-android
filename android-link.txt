@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sin-pathology-vid-layout.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://field-deeper-watches-park.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-21 10:02:20 UTC
+Created   : 2026-10-21 15:05:15 UTC
 =======================================================
