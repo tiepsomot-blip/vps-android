@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sims-mesa-walls-ecommerce.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://holder-airport-unable-cancer.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-27 20:01:16 UTC
+Created   : 2026-10-27 23:45:28 UTC
 =======================================================
