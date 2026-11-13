@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://data-however-allen-diploma.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://slides-inspections-lightning-accessory.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-13 13:04:09 UTC
+Created   : 2026-11-13 21:23:53 UTC
 =======================================================
