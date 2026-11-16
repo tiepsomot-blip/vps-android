@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://term-kinase-taught-pamela.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://excluding-color-distributions-valve.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-15 23:57:34 UTC
+Created   : 2026-11-16 05:11:07 UTC
 =======================================================
